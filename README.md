@@ -9,7 +9,7 @@ java -jar frms-data-populator export ./companies.csv
 java -jar frms-data-populator import ./companies.csv
 
 
-Note: When import from CSV's to database, they need to be placet in root where the file is and names need to be as folows:
+Note: When import from CSV to database, they need to be placet in root where the file is and names need to be as folows:
 companies.csv
 events.csv
 users.csv
